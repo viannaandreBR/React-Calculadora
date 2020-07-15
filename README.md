@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo React Calculator
+## Demo React Calculator 1
 
 <img src="Calculadora.gif" alt="demo React-Calculator" >
 
